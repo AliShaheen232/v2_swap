@@ -1,0 +1,7 @@
+{
+  "web3_rpc_url": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+  "web3socket_url": "wss://mainnet.infura.io/ws/v3/335d7bd80d5747f482a8c603c4beae14",
+  "triTokenAdd": "0x9e71665d95b6d3193EFb90A2085331EFe46861ce",
+  "biTokenAdd": "0xc7cFdd590F3F7ac83C7bB6Ec24a897B0dcB00080",
+  "router": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3"
+}
